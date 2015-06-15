@@ -1,0 +1,10 @@
+kontroler wysyla zadany stan do sterownika
+kontroler podejmuje decyzje o czynnosciach wykonywanych przez agregat
+sterownik wlacza agregat
+sterownik wylacza agregat
+miernik pradu mierzy prad ze zrodla zewnetrznego
+miernik paliwa mierzy poziom paliwa
+system raportuje zdalnie swoj stan
+alarm komunikuje wazne zdarzenia
+system jest stabilny
+system reaguje szybko na zmiany
